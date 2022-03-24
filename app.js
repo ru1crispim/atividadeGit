@@ -1,2 +1,3 @@
-console.log("Primeiro arquivo JS referente atividade em sala");
+console.log("Primeiro arquivo JS referente atividade em sala.");
+
 // Coloque seu codigo / texto aqui...
